@@ -1,0 +1,32 @@
+• IaaS requires the most user management of all the cloud services. The user is responsible for managing 
+the operating systems, data, and applications.
+• PaaS requires less user management. The cloud provider manages the operating systems, and the user 
+is responsible for the applications and data they run and store.
+• SaaS requires the least amount of management. The cloud provider is responsible for managing 
+everything, and the end user just uses the software.
+
+Azure is Microsoft’s cloud computing platform. Azure gives you the freedom to build, manage, and deploy 
+applications on a massive global network using your favorite tools and frameworks
+
+Azure Cosmos DB Globally distributed database that supports NoSQL options
+Azure SQL Database Fully managed relational database with auto-scale, integral intelligence,
+
+
+Azure App Service Quickly create powerful cloud web-based apps
+
+Azure Cloud Shell is a browser-based command-line experience for managing and developing Azure resources. 
+Think of Cloud Shell as an interactive console that you run in the cloud.
+Cloud Shell provides two experiences to choose from: Bash and PowerShell. Both include access to the Azure 
+CLI, the command-line interface for Azure.
+
+
+• Size: A VM’s size defines its processor speed, amount of memory, initial amount of storage, and expected 
+network bandwidth.
+• Region: A region is a set of Azure data centers in a named geographic location. Every Azure resource, 
+including virtual machines, is assigned a region. East US and North Europe are examples of regions.
+• Network: A virtual network is a logically isolated network on Azure. Each virtual machine on Azure is 
+associated with a virtual network. Azure provides cloud-level firewalls for your virtual networks called 
+network security groups.
+• Resource groups: Virtual machines and other cloud resources are grouped into logical containers called 
+resource groups. Groups are typically used to organize sets of resources that are deployed together as 
+part of an application or service. You refer to a resource group by
